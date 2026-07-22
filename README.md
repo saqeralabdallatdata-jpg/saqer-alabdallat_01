@@ -60,3 +60,24 @@ Backend API Layer: FastAPI, Uvicorn, Pydantic
 Frontend Analytics Console: Streamlit, Plotly
 
 Data Processing & Utilities: PyPDF2, pdfplumber, Scikit-learn, NumPy
+
+🚀 Quick Start Guide
+1. Clone & Setup Environment
+
+git clone [https://github.com/saqer-alabdallat/smart-ats-resume-engine.git](https://github.com/saqer-alabdallat/smart-ats-resume-engine.git)
+cd smart-ats-resume-engine
+
+2. Install Dependencies
+
+pip install -r requirements.txt
+
+3. Configure Environment Variables
+Create a .env file in the root directory:
+
+4. Run Application
+
+# Terminal 1: Launch API Core
+uvicorn backend.main:app --reload --port 8000
+
+# Terminal 2: Launch Streamlit Dashboard
+streamlit run frontend/app.py
