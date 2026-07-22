@@ -48,6 +48,8 @@ Traditional Applicant Tracking Systems rely on rigid keyword matching (TF-IDF/Ex
 └──────────────────────────┬─────────────────────────────┘
                            │
                            ▼
+🚀 Quick Start Guide
+1. Clone & Setup Environment
 ┌────────────────────────────────────────────────────────┐
 │             Streamlit Candidate Analytics Dashboard    │
 │            (Match Matrix, Gap Radar & Summary)         │
