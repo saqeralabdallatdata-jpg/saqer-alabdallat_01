@@ -26,11 +26,11 @@ Traditional Applicant Tracking Systems rely on rigid keyword matching (TF-IDF/Ex
 
 ## 📸 Live Execution Showcase
 
-Below are live screenshots of the Streamlit dashboard executing real-time resume parsing, contextual candidate matching, and skill gap analysis:
+Below are live production screenshots of the ATS Dashboard executing resume parsing, candidate matching, skill extraction, and gap analysis:
 
-| 1. Candidate Match Overview | 2. Skills & Gap Analysis | 3. LLM Detailed Feedback |
-| :---: | :---: | :---: |
-| ![Candidate Match Overview](Screenshot%201.png) | ![Skills Gap Analysis](Screenshot%202.png) | ![LLM Detailed Feedback](Screenshot%203.png) |
+| 1. Candidate Overview | 2. Semantic Match Matrix | 3. Skill Gap Breakdown | 4. Detailed LLM Assessment |
+| :---: | :---: | :---: | :---: |
+| ![Screen 1](Screenshot%202026-07-22%20135515.png) | ![Screen 2](Screenshot%202026-07-22%20135530.png) | ![Screen 3](Screenshot%202026-07-22%20135603.png) | ![Screen 4](Screenshot%202026-07-22%20135616.png) |
 
 > 💡 **Note:** The console dynamically computes embedding similarity scores, extracts missing technical requirements, and generates actionable candidate recommendations.
 
