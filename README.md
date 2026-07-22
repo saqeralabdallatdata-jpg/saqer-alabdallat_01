@@ -48,7 +48,7 @@ Traditional Applicant Tracking Systems rely on rigid keyword matching (TF-IDF/Ex
 └──────────────────────────┬─────────────────────────────┘
                            │
                            ▼
-##🚀 Quick Start Guide
+## 🚀 Quick Start Guide
 1. Clone & Setup Environment
 git clone [https://github.com/saqer-alabdallat/smart-ats-resume-engine.git](https://github.com/saqer-alabdallat/smart-ats-resume-engine.git)
 cd smart-ats-resume-engine
