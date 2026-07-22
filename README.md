@@ -48,7 +48,15 @@ Traditional Applicant Tracking Systems rely on rigid keyword matching (TF-IDF/Ex
 └──────────────────────────┬─────────────────────────────┘
                            │
                            ▼
-## 🚀 Quick Start Guide
-1. Clone & Setup Environment
-git clone [https://github.com/saqer-alabdallat/smart-ats-resume-engine.git](https://github.com/saqer-alabdallat/smart-ats-resume-engine.git)
-cd smart-ats-resume-engine
+
+
+🛠️ Tech Stack & Dependencies
+Core Language: Python 3.10+
+
+LLM & Embeddings Framework: LangChain / LangGraph, OpenAI / HuggingFace Embeddings
+
+Backend API Layer: FastAPI, Uvicorn, Pydantic
+
+Frontend Analytics Console: Streamlit, Plotly
+
+Data Processing & Utilities: PyPDF2, pdfplumber, Scikit-learn, NumPy
