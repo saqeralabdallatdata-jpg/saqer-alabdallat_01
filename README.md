@@ -22,6 +22,19 @@ Traditional Applicant Tracking Systems rely on rigid keyword matching (TF-IDF/Ex
 * **Deterministic Output Schema:** Uses Pydantic JSON parsing to guarantee valid API outputs for downstream enterprise integrations.
 
 ---
+---
+
+## 📸 Live Execution Showcase
+
+Below are live screenshots of the Streamlit dashboard executing real-time resume parsing, contextual candidate matching, and skill gap analysis:
+
+| 1. Candidate Match Overview | 2. Skills & Gap Analysis | 3. LLM Detailed Feedback |
+| :---: | :---: | :---: |
+| ![Candidate Match Overview](Screenshot%201.png) | ![Skills Gap Analysis](Screenshot%202.png) | ![LLM Detailed Feedback](Screenshot%203.png) |
+
+> 💡 **Note:** The console dynamically computes embedding similarity scores, extracts missing technical requirements, and generates actionable candidate recommendations.
+
+---
 
 ## 🏗️ System Architecture
 
